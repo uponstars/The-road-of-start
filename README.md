@@ -1,4 +1,4 @@
-We will follow this path of architect from the project.
+﻿We will follow this path of architect from the project.
 Our goal is bulit a web page
 
 ---------------------------------------------------------
@@ -9,6 +9,6 @@ authot : 填上自己的名字 - 按字典顺序来 1.北鼠 2.鲤鱼旗 3.满�
 
 
     1. 
-    2.
+    2.	潘剑
     3.
     4.
